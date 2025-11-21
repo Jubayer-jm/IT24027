@@ -1,0 +1,56 @@
+=== High School General Knowledge Quiz ===
+
+Instructions: Type A, B, C or D and press Enter. (Answers are not case-sensitive)
+
+Question 1 of 15:
+Which planet is known as the Red Planet?
+  A) Venus
+  B) Mars
+  C) Jupiter
+  D) Mercury
+Your answer (A/B/C/D): B
+Correct!
+
+Question 2 of 15:
+What is the chemical symbol for water?
+  A) H2O
+  B) O2
+  C) CO2
+  D) NaCl
+Your answer (A/B/C/D): A
+Correct!
+
+Question 3 of 15:
+Who wrote the play 'Romeo and Juliet'?
+  A) Charles Dickens
+  B) Mark Twain
+  C) William Shakespeare
+  D) Jane Austen
+Your answer (A/B/C/D): C
+Correct!
+
+Question 4 of 15:
+Which country is the Taj Mahal located in?
+  A) India
+  B) Pakistan
+  C) Bangladesh
+  D) Nepal
+Your answer (A/B/C/D): A
+Correct!
+
+Question 5 of 15:
+What is the largest organ in the human body?
+  A) Heart
+  B) Skin
+  C) Liver
+  D) Lungs
+Your answer (A/B/C/D): C
+Wrong. Correct answer: B) Skin
+
+... (remaining questions)
+
+=== Quiz Complete ===
+Score: 12 out of 15
+Percentage: 80.0%
+Grade: B
+Great job! A little review will make it perfect.
